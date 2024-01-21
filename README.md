@@ -13,15 +13,15 @@ Although it was the intention to distribute the sourcecode on github from the be
 and prevented the rollout of the display.
 So the whole project was put on hold in the first half of 2020, including making the source program public.
 
-At that time the software supported one meter, or two meters with comparison betwwen the two.
+At that time the software supported one meter, or two meters with comparison betwwen the two. 
 
 The one meter configuration, intended for an outside meter, had its measurements explained in full text.
 
 The two meter configuration could be a PM meter inside and outside the same home, with the measuments compared & explained 
 in full text. Also a configuration with two outside meters was supported, with measurements compared & explained in full text.
 
-In summer 2023, things started to move again, and after a small overhaul & debugging session starting in June, new features 
-were implemented. A start was made to show 24 hour peak values, with local storage for calculating it. 
+In summer 2023, things started to move again, and after a small overhaul & debugging session starting in June 2023, 
+new features were implemented. A start was made to show 24 hour peak values, with local storage for calculating it. 
 
 A start was made for monitoring more than the two meters already supported.
 The display can now be used as a monitoring device for an unlimited number of sensors, while limiting the messages 
