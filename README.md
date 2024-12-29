@@ -24,8 +24,8 @@ In summer 2023, things started to move again, and after a small overhaul & debug
 were implemented. A start was made to show 24 hour peak values, with local storage for calculating it. 
 
 A start was made for monitoring more than the two meters already supported.
-The display can now be used as a monitoring device for an unlimited number of sensors, while limiting the messages 
-to show only the mean value over aal meter, and the exceptions, such as peak values and meters not working, 
+The display will be usable as a monitoring device for monitoring 4 sensors at a total of 32 locations, while limiting the messages 
+to show only the mean value over all meters and the exceptions, such as peak values and meters not working, 
 with their identification.
 
 More new features will follow:
@@ -35,12 +35,10 @@ More new features will follow:
 - A web interface for configuring, as the configuration now is through editing the sourcecode & recompiling,
   limiting the rollout by non-programmers.
 
-Building & explaining sessions will be held starting starting March 2, 2024 in HackerSpace Brussels, Osseghemstraat 53, 
+Building & explaining sessions will be held starting March 2, 2024 in HackerSpace Brussels, Osseghemstraat 53, 
 1060 Molenbeek-Belgium. If you want to participate, please enroll via https://www.meetup.com/nl-NL/civic-lab-brussels/
 
 Extensions & corrections to the sourcecode will be made public through this channel.
 Software falls under the GNU public Licence, for use in citizen science projects.
-If you modify the main program, please send me a copy of your finished work at rik.drabs@gmail.com,
-so that interesting things can get published through this channel.
 
-In no way modify this main branch yourself.
+The new version doing all these new things will be in a separate branch, called DisplayPM_32x4
